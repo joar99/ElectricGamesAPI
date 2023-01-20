@@ -1,0 +1,265 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/2kgames.svg",
+      "PackagePath": "staticwebassets/images/2kgames.svg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/altairibn-laahad.jpg",
+      "PackagePath": "staticwebassets/images/altairibn-laahad.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/andrewryan.jpg",
+      "PackagePath": "staticwebassets/images/andrewryan.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/assassinscreed.jpeg",
+      "PackagePath": "staticwebassets/images/assassinscreed.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/bethesda.png",
+      "PackagePath": "staticwebassets/images/bethesda.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/bioshock.jpg",
+      "PackagePath": "staticwebassets/images/bioshock.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/bioware.png",
+      "PackagePath": "staticwebassets/images/bioware.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/blossom.png",
+      "PackagePath": "staticwebassets/images/blossom.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/bungie.png",
+      "PackagePath": "staticwebassets/images/bungie.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/callofduty.jpeg",
+      "PackagePath": "staticwebassets/images/callofduty.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/cayade.jpeg",
+      "PackagePath": "staticwebassets/images/cayade.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/claragarcia.png",
+      "PackagePath": "staticwebassets/images/claragarcia.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/codemasters.jpeg",
+      "PackagePath": "staticwebassets/images/codemasters.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/cody.jpeg",
+      "PackagePath": "staticwebassets/images/cody.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/danirojas.png",
+      "PackagePath": "staticwebassets/images/danirojas.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/darthmalgus.jpg",
+      "PackagePath": "staticwebassets/images/darthmalgus.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/destiny2.jpeg",
+      "PackagePath": "staticwebassets/images/destiny2.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/dominicsantiago.jpg",
+      "PackagePath": "staticwebassets/images/dominicsantiago.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/electronicarts.jpg",
+      "PackagePath": "staticwebassets/images/electronicarts.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/elizabethcomstock.jpg",
+      "PackagePath": "staticwebassets/images/elizabethcomstock.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/emperorvitiate.jpg",
+      "PackagePath": "staticwebassets/images/emperorvitiate.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/epicgames.png",
+      "PackagePath": "staticwebassets/images/epicgames.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/erismorn.jpg",
+      "PackagePath": "staticwebassets/images/erismorn.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/ezioauditoredafirenze.jpg",
+      "PackagePath": "staticwebassets/images/ezioauditoredafirenze.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/f1game.jpg",
+      "PackagePath": "staticwebassets/images/f1game.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/farcry.png",
+      "PackagePath": "staticwebassets/images/farcry.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/gearsofwar.jpg",
+      "PackagePath": "staticwebassets/images/gearsofwar.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/generalshepherd.jpg",
+      "PackagePath": "staticwebassets/images/generalshepherd.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/goat.png",
+      "PackagePath": "staticwebassets/images/goat.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/goatsimulatorgame.png",
+      "PackagePath": "staticwebassets/images/goatsimulatorgame.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/goodfeel.png",
+      "PackagePath": "staticwebassets/images/goodfeel.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/gta5.jpeg",
+      "PackagePath": "staticwebassets/images/gta5.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/gtasanandreas.jpg",
+      "PackagePath": "staticwebassets/images/gtasanandreas.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/haloinfinite.png",
+      "PackagePath": "staticwebassets/images/haloinfinite.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/hamburger.png",
+      "PackagePath": "staticwebassets/images/hamburger.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/hazelight.jpeg",
+      "PackagePath": "staticwebassets/images/hazelight.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/infinitewarfare.jpg",
+      "PackagePath": "staticwebassets/images/infinitewarfare.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/infinityward.png",
+      "PackagePath": "staticwebassets/images/infinityward.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/ittakestwo.jpeg",
+      "PackagePath": "staticwebassets/images/ittakestwo.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/jamesvega.jpeg",
+      "PackagePath": "staticwebassets/images/jamesvega.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/lancewilson.jpeg",
+      "PackagePath": "staticwebassets/images/lancewilson.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/lewis.png",
+      "PackagePath": "staticwebassets/images/lewis.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/marcusfenix.jpg",
+      "PackagePath": "staticwebassets/images/marcusfenix.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/masseffect.jpeg",
+      "PackagePath": "staticwebassets/images/masseffect.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/masterchief.png",
+      "PackagePath": "staticwebassets/images/masterchief.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/may.png",
+      "PackagePath": "staticwebassets/images/may.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/powerpuff.jpeg",
+      "PackagePath": "staticwebassets/images/powerpuff.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/rayman.png",
+      "PackagePath": "staticwebassets/images/rayman.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/rayman3.png",
+      "PackagePath": "staticwebassets/images/rayman3.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/rockstargames.png",
+      "PackagePath": "staticwebassets/images/rockstargames.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/simonghostriley.jpg",
+      "PackagePath": "staticwebassets/images/simonghostriley.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/starwars.jpg",
+      "PackagePath": "staticwebassets/images/starwars.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/starwars.png",
+      "PackagePath": "staticwebassets/images/starwars.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/tinatinasgame.jpeg",
+      "PackagePath": "staticwebassets/images/tinatinasgame.jpeg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/tinytina.png",
+      "PackagePath": "staticwebassets/images/tinytina.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/trevorphilips.jpg",
+      "PackagePath": "staticwebassets/images/trevorphilips.jpg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/ubisoft.svg",
+      "PackagePath": "staticwebassets/images/ubisoft.svg"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/yoshi.png",
+      "PackagePath": "staticwebassets/images/yoshi.png"
+    },
+    {
+      "Id": "/Users/noro-vgr/Documents/Skole/Høst2022/Webutvikling/Eksamen/FinalGameApi/wwwroot/images/yoshis-crafted-world.png",
+      "PackagePath": "staticwebassets/images/yoshis-crafted-world.png"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.GameApiTwo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.GameApiTwo.props",
+      "PackagePath": "build\\GameApiTwo.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.GameApiTwo.props",
+      "PackagePath": "buildMultiTargeting\\GameApiTwo.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.GameApiTwo.props",
+      "PackagePath": "buildTransitive\\GameApiTwo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

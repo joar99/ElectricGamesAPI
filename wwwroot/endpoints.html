@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <h1>API ENDPOINTS EXPLAINED</h1>
+    <h2>Will Be Using Examples From Character Controller As It Has A Few Unique Endpoints</h2>
+    <h2>Some end-points listed are equal, however several methods may be applied so therefore will be listed more than once</h2>
+
+    <h3>Endpoint 1: Get (https://localhost:7127/api/Characters)</h3>
+    <p>Description: This endpoint retrives a list of JSON elements</p>
+
+    <h3>Endpoint 2: Post (https://localhost:7127/api/Characters)</h3>
+    <p>Description: This endpoint recieves a post request, it accepts a key/value pair of FormData aswell as a JSON object</p>
+
+    <h3>Endpoint 3: Get (https://localhost:7127/api/Characters/{id})</h3>
+    <p>Description: This endpoint takes the object id of the element as an argument to find one of equal match, it retrieves a list of JSON elements</p>
+
+    <h3>Endpoint 4: Put (https://localhost:7127/api/Characters/{id})</h3>
+    <p>Description: This endpoint accepts a JSON element in a PUT request, it takes the id of an existing element to change make changes to its values</p>
+
+    <h3>Endpoint 5: Delete(https://localhost:7127/api/Characters/{id})</h3>
+    <p>Description: This endpoints accepts the id of an element as argument for which element to remove from the database</p>
+
+    <h3>Endpoint 6: Get(https://localhost:7127/api/Characters/name/{query})</h3>
+    <p>Description: This endpoint takes an argument and attempts to match the argument supplied with any of the attributes stored in the database, returns a list of matches</p>
+
+    <h3>Endpoint 7: Get(https://localhost:7127/api/Characters/randomizefour)</h3>
+    <p>Description: This endpoint retrieves a list of 4 random elements by using the Random() method</p>
+
+    <h3>Endpoint 8: Post(https://localhost:7127/api/file)</h3>
+    <p>Description: This endpoint accepts 2 arguments: a string which is used to name the file, including the FormFile in binary for the data of the file</p>
+
+</body>
+</html>
